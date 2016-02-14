@@ -1,0 +1,6 @@
+Difficulty: VERY EASY
+Create a number guessing game from range x to y
+The user will have n number of guesses to get it right
+If the answer is wrong, tell the user whether the guess was too high or too low
+If the answer is right, tell the user they got it right
+Show how many attempts have been made so far
